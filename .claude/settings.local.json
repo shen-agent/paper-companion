@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__Ofs1Tq5gsOQmVDzFordEN__search_library",
+      "mcp__Ofs1Tq5gsOQmVDzFordEN__search_fulltext"
+    ]
+  }
+}
